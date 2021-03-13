@@ -2,9 +2,8 @@ function main() {
 
     // Only change coode below this line
     var x = 8;
-    
-    return x;
     // Only change code above this line
+    return x;
 }
 
 console.log(main());

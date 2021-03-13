@@ -5,13 +5,11 @@ function main() {
     var y = 12;
     var z = "My name is  ";
 
+    // Only change code above this line
     x = x + 2;
     y = y + 4;
-    z = z + "Mahir";
-
-
+    z = z + "Jhon";
     return [x, y, z];
-    // Only change code above this line
 
 }
 console.log(main());
